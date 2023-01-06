@@ -1,3 +1,3 @@
 # Data_Analysis_using_SQL
-EDA using Oracle Live SQL
-A analysis on the 'SALES' schema that is available in Oracle Live SQL
+
+The EDA is done using Oracle Live SQL DBMS. Here, analysis on the 'SALES' schema that is available DBMS.
